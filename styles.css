@@ -19,7 +19,7 @@ header h1 {
 nav {
     background-color: #000000;
     list-style-type: none;
-    padding: 0;
+    padding: 2em;
     margin: 0;
     text-align: center;
 }
