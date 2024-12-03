@@ -20,11 +20,12 @@ nav {
     color: #000000;
     list-style-type: none;
     
-    margin: 2em;
+
     text-align: center;
 }
 
 a{text-decoration: none;
+    margin: 10px;
 color: #000000;}
 
 footer {
